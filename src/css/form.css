@@ -4,9 +4,9 @@
   text-align: left;
 }
 
-.form input[type=number], .form fieldset  {
-  width: 100%;
-  padding: 2px 12px;
+.form-input, .form fieldset  {
+
+
 }
 
 .form fieldset {
